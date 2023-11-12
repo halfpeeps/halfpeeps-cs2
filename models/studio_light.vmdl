@@ -26,8 +26,8 @@
 				children = 
 				[
 					{
-						_class = "HitboxSet_Auto"
-						name = "hitbox"
+						_class = "HitboxSet"
+						name = "unnamed_HitboxSet"
 						children = 
 						[
 							{
@@ -36,8 +36,8 @@
 								surface_property = ""
 								translation_only = false
 								group_id = 0
-								hitbox_mins = [ -4.20528, -8.11767, -5.526347 ]
-								hitbox_maxs = [ 4.185595, 9.060431, 4.487769 ]
+								hitbox_mins = [ -3.999335, -8.233196, -3.964103 ]
+								hitbox_maxs = [ 4.238416, 9.044362, 3.992883 ]
 							},
 						]
 					},
